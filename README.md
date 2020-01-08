@@ -1,1 +1,1 @@
-Ich will ein einen Wurst Essen
+Ich will ein einen Wurst essen
