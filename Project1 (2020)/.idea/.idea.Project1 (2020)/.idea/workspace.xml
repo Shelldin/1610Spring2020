@@ -16,6 +16,7 @@
     <setting file="file://D:/GitHub Repos/1620Fall2019/CreateProjectPractice/Assets/Scripts/Movement.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/MovementData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -24,6 +25,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/MovementData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NewClass.cs" />
       </list>
     </option>
   </component>
@@ -58,7 +60,7 @@
       <updated>1578632256968</updated>
       <workItem from="1578632273296" duration="489000" />
       <workItem from="1578632784330" duration="3790000" />
-      <workItem from="1578895838857" duration="573000" />
+      <workItem from="1578895838857" duration="2119000" />
     </task>
     <servers />
   </component>
