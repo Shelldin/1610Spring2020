@@ -492,3 +492,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19549c159f2217546ae236229c2eb86a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nameString: Todd
+  intNum: 7
+  floatNum: 7.7
+  gameObj: {fileID: 534669902}
