@@ -5,10 +5,10 @@ using UnityEngine.Events;
 
 public class TriggerEnterEvent : MonoBehaviour
 {
-   public UnityEvent OnTriggerEnterEvent;
+   public UnityEvent onTriggerEnterEvent;
 
    private void OnTriggerEnter()
    {
-      OnTriggerEnterEvent.Invoke();
+      onTriggerEnterEvent.Invoke();
    }
 }

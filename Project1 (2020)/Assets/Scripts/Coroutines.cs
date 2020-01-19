@@ -11,6 +11,8 @@ public class Coroutines : MonoBehaviour
 
     public int counter = 10;
 
+    private IEnumerator coroutine;
+
     private WaitForSeconds wfsObj;
 
     private void Awake()
@@ -18,10 +20,18 @@ public class Coroutines : MonoBehaviour
         wfsObj = new WaitForSeconds(seconds);
     }
 
+    
     public void CallCoroutine()
     {
-        StartCoroutine(RunCoroutine());
+        coroutine = RunCoroutine();
+        StartCoroutine(coroutine);
     }
+    
+    public void EndCoroutine()
+    {
+        StopCoroutine(coroutine);
+    }
+    
 
     IEnumerator RunCoroutine()
     {
