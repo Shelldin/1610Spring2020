@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Security.Cryptography.X509Certificates;
+using UnityEngine;
 
 [CreateAssetMenu]
 public class FloatData : ScriptableObject
@@ -12,7 +13,7 @@ public class FloatData : ScriptableObject
         value += amount;
     }
 
-    public void UpdateValueRange(float amount)
+    public void IncreaseValue(float amount)
     {
         if (value <= maxValue)
         {
@@ -22,7 +23,10 @@ public class FloatData : ScriptableObject
         {
             value = maxValue;
         }
+    }
 
+    public void DecreaseValue(float amount)
+    {
         if (value >= minValue)
         {
             UpdateValue(amount);
