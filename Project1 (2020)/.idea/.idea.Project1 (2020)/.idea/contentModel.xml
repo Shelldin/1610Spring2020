@@ -17,6 +17,7 @@
             <e p="NewClass.cs" t="Include" />
           </e>
           <e p="Movement.cs" t="Include" />
+          <e p="UIImageController.cs" t="Include" />
           <e p="UnityEvents" t="Include">
             <e p="StartEvent.cs" t="Include" />
             <e p="TriggerEnterEvent.cs" t="Include" />
