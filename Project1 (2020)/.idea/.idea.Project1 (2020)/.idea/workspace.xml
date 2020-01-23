@@ -12,17 +12,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/MouseDownTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIImageController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://D:/GitHub Repos/1620Fall2019/CreateProjectPractice/Assets/Scripts/Movement.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://D:/GitHub Repos/1620Fall2019/CreateProjectPractice/Assets/Scripts/CoRoutines/Coroutines.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/FloatData.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coroutines.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/MovementData.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerEnterEvent.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/NewClass.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Debugger.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/StartEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://D:/GitHub Repos/1620Fall2019/CreateProjectPractice/Assets/Scripts/CoRoutines/Coroutines.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coroutines.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/MovementData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Debugger.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerExitEvent.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -40,6 +41,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UIImageController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/MouseDownTutorial.cs" />
       </list>
     </option>
   </component>
@@ -81,6 +83,7 @@
       <workItem from="1579673498999" duration="106000" />
       <workItem from="1579673608189" duration="95000" />
       <workItem from="1579673758383" duration="729000" />
+      <workItem from="1579752723017" duration="1682000" />
     </task>
     <servers />
   </component>
