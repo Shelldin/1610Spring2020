@@ -10,7 +10,9 @@
           <e p="Coroutines.cs" t="Include" />
           <e p="DataScripts" t="Include">
             <e p="FloatData.cs" t="Include" />
+            <e p="GameArtData.cs" t="Include" />
             <e p="MovementData.cs" t="Include" />
+            <e p="PlayerData.cs" t="Include" />
           </e>
           <e p="Debugger.cs" t="Include" />
           <e p="InClassExampleStuff" t="Include">
@@ -26,6 +28,7 @@
           <e p="UnityTutorialScripts" t="Include">
             <e p="MouseDownTutorial.cs" t="Include" />
           </e>
+          <e p="VirtualCameraController.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
