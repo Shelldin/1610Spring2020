@@ -35,7 +35,15 @@ public class FloatData : ScriptableObject
         {
             value = minValue;
         }
+    }
 
+    public void GetMax()
+    {
+        value = maxValue;
+    }
 
+    public void GetMin()
+    {
+        value = minValue;
     }
 }

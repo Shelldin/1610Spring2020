@@ -16,7 +16,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIImageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://D:/GitHub Repos/1620Fall2019/CreateProjectPractice/Assets/Scripts/Movement.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/FloatData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerEnterEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/VirtualCameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/GameArtData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -41,12 +41,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityEvents/StartEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerEnterEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerExitEvent.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UIImageController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/MouseDownTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/VirtualCameraController.cs" />
       </list>
     </option>
@@ -90,7 +90,7 @@
       <workItem from="1579673608189" duration="95000" />
       <workItem from="1579673758383" duration="729000" />
       <workItem from="1579752723017" duration="1682000" />
-      <workItem from="1580106333953" duration="1120000" />
+      <workItem from="1580106333953" duration="3503000" />
     </task>
     <servers />
   </component>
