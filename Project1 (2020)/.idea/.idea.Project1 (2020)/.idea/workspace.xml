@@ -47,9 +47,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/PlayerData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/VirtualCameraController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/MovementData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/GameArtData.cs" />
       </list>
     </option>
   </component>
@@ -97,7 +97,7 @@
       <workItem from="1580146675794" duration="3016000" />
       <workItem from="1580274208606" duration="186000" />
       <workItem from="1580274865700" duration="460000" />
-      <workItem from="1580276039715" duration="1769000" />
+      <workItem from="1580276039715" duration="2122000" />
     </task>
     <servers />
   </component>
