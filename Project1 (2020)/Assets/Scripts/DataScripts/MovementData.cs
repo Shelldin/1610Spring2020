@@ -4,6 +4,7 @@ public class MovementData : ScriptableObject
 {
     public float moveSpeed = 10f,
         gravity = 3f,
+        maxGravity = 10f,
         jumpSpeed = 30f;
 
     public int jumpCountMax = 2,
@@ -17,6 +18,11 @@ public class MovementData : ScriptableObject
     public void UpdateGravity(float amount)
     {
         gravity += amount;
+    }
+
+    public void SetGravity(float amount)
+    {
+        gravity = amount;
     }
 
     public void UpdateJumpSpeed(float amount)
