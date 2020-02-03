@@ -16,6 +16,7 @@
           </e>
           <e p="Debugger.cs" t="Include" />
           <e p="InClassExampleStuff" t="Include">
+            <e p="CharacterMovement.cs" t="Include" />
             <e p="NewClass.cs" t="Include" />
             <e p="TriggerEvents.cs" t="Include" />
           </e>

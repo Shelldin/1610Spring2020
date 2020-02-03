@@ -21,6 +21,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerExitEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/StartEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerEnterEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIImageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
@@ -53,6 +54,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DeltaTimeTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ClassConstructorTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/CharacterMovement.cs" />
       </list>
     </option>
   </component>
@@ -128,6 +130,7 @@
       <workItem from="1580281343643" duration="142000" />
       <workItem from="1580523292321" duration="200000" />
       <workItem from="1580523798786" duration="3672000" />
+      <workItem from="1580750453531" duration="3527000" />
     </task>
     <servers />
   </component>
