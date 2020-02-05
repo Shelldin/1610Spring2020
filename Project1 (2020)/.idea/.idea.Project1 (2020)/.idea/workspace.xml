@@ -19,6 +19,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/MovementData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerExitEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/StartEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerEnterEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
@@ -51,10 +52,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/MovementData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Debugger.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DeltaTimeTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ClassConstructorTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/CharacterMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StateManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
       </list>
     </option>
   </component>
@@ -131,6 +133,7 @@
       <workItem from="1580523292321" duration="200000" />
       <workItem from="1580523798786" duration="3672000" />
       <workItem from="1580750453531" duration="4175000" />
+      <workItem from="1580923530477" duration="3044000" />
     </task>
     <servers />
   </component>

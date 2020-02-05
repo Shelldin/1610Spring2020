@@ -31,6 +31,11 @@ public class Movement : MonoBehaviour
             PlayerMoveData.jumpCount++;
             position.y = PlayerMoveData.jumpSpeed;
         }
+
+        if (position.y < -5f)
+        {
+            FindObjectOfType<StateManager>().GameOver();
+        }
     }
 
 }
