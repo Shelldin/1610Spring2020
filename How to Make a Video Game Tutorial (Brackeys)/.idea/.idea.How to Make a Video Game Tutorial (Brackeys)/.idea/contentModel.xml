@@ -8,9 +8,11 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="CameraFollow.cs" t="Include" />
+          <e p="EndTrigger.cs" t="Include" />
           <e p="PlayerCollision.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
           <e p="Score.cs" t="Include" />
+          <e p="StateManager.cs" t="Include" />
         </e>
       </e>
       <e p="How to Make a Video Game Tutorial (Brackeys).sln" t="IncludeFlat" />
