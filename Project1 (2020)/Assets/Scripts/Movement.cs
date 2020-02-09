@@ -32,7 +32,7 @@ public class Movement : MonoBehaviour
             position.y = PlayerMoveData.jumpSpeed;
         }
 
-        if (position.y < -5f)
+        if (transform.position.y <= -10f)
         {
             FindObjectOfType<StateManager>().GameOver();
         }

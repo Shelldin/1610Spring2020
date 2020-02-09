@@ -42,21 +42,21 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityEvents/StartEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerEnterEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerExitEvent.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UIImageController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/MouseDownTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/PlayerData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/VirtualCameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TriggerEvents.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/MovementData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Debugger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DeltaTimeTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ClassConstructorTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/CharacterMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StateManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/MovementData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines.cs" />
       </list>
     </option>
   </component>
@@ -134,6 +134,7 @@
       <workItem from="1580523798786" duration="3672000" />
       <workItem from="1580750453531" duration="4175000" />
       <workItem from="1580923530477" duration="3044000" />
+      <workItem from="1581228138579" duration="1288000" />
     </task>
     <servers />
   </component>

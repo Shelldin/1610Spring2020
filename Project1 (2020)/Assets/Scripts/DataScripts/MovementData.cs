@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 [CreateAssetMenu]
-public class MovementData : ScriptableObject
+public class MovementData : GameArtData
 {
     public float moveSpeed = 10f,
         gravity = 3f,

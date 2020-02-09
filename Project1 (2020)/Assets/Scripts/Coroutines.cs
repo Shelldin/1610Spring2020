@@ -8,6 +8,8 @@ public class Coroutines : MonoBehaviour
     public UnityEvent startEvent, repeatEvent, endEvent;
     
     public FloatData floatDataObj;
+    
+    
 
     private IEnumerator coroutine;
     
@@ -21,7 +23,15 @@ public class Coroutines : MonoBehaviour
 
     private void Awake()
     {
-        counter = floatDataObj.value;
+        if (floatDataObj == null)
+        {
+            counter = counter;
+        }
+
+        else
+        {
+            counter = floatDataObj.value; 
+        }
         wfsObj = new WaitForSeconds(seconds);
     }
 
@@ -46,6 +56,11 @@ public class Coroutines : MonoBehaviour
             
             repeatEvent.Invoke();
             yield return wfsObj;
+
+            if (floatDataObj == null)
+            {
+                counter -= 1f;
+            }
         }
         endEvent.Invoke();
     }
