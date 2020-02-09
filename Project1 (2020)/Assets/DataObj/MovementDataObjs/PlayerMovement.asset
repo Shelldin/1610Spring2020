@@ -12,8 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6ce0750e00438e4684d1a80f632fbd1, type: 3}
   m_Name: PlayerMovement
   m_EditorClassIdentifier: 
+  sprite: {fileID: 0}
+  color: {r: 1, g: 0, b: 0, a: 1}
+  prefab: {fileID: 0}
   moveSpeed: 15
   gravity: 2.5
+  maxGravity: 10
   jumpSpeed: 30
   jumpCountMax: 2
-  jumpCount: 2
+  jumpCount: 0
