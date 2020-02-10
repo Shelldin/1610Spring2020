@@ -6,6 +6,7 @@ public class Movement : MonoBehaviour
     private Vector3 position;
 
     public MovementData PlayerMoveData;
+    public FloatData health;
     
     void Start()
     {
@@ -31,8 +32,9 @@ public class Movement : MonoBehaviour
             PlayerMoveData.jumpCount++;
             position.y = PlayerMoveData.jumpSpeed;
         }
+        
 
-        if (transform.position.y <= -10f)
+        if (transform.position.y <= -10f || health.value <= 0f)
         {
             FindObjectOfType<StateManager>().GameOver();
         }

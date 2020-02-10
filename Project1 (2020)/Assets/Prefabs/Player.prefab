@@ -67,6 +67,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PlayerMoveData: {fileID: 11400000, guid: be2bb15660fe09d45ad5eb2363f09923, type: 2}
+  health: {fileID: 11400000, guid: 3700d2ea2530e45499544cd29bad7b2e, type: 2}
 --- !u!212 &4622063593337106711
 SpriteRenderer:
   m_ObjectHideFlags: 0
