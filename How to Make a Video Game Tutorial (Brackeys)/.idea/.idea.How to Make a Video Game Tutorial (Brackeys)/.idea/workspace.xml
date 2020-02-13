@@ -16,8 +16,10 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerCollision.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Score.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LoadLevel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Credits.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EndTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -30,6 +32,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/EndTrigger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StateManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LoadLevel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Credits.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu.cs" />
       </list>
     </option>
   </component>
@@ -91,6 +95,8 @@
       <workItem from="1580700874883" duration="2286000" />
       <workItem from="1580880755380" duration="2836000" />
       <workItem from="1580885522707" duration="422000" />
+      <workItem from="1581572894715" duration="159000" />
+      <workItem from="1581573147675" duration="1044000" />
     </task>
     <servers />
   </component>

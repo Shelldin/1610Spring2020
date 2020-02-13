@@ -8,8 +8,10 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="CameraFollow.cs" t="Include" />
+          <e p="Credits.cs" t="Include" />
           <e p="EndTrigger.cs" t="Include" />
           <e p="LoadLevel.cs" t="Include" />
+          <e p="Menu.cs" t="Include" />
           <e p="PlayerCollision.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
           <e p="Score.cs" t="Include" />
