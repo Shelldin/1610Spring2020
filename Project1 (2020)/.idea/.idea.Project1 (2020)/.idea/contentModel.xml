@@ -22,8 +22,10 @@
             <e p="RigidbodyForces.cs" t="Include" />
             <e p="TriggerEvents.cs" t="Include" />
           </e>
+          <e p="MenuController.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
           <e p="StateManager.cs" t="Include" />
+          <e p="UIButtons.cs" t="Include" />
           <e p="UIImageController.cs" t="Include" />
           <e p="UnityEvents" t="Include">
             <e p="StartEvent.cs" t="Include" />
