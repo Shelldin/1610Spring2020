@@ -20,6 +20,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coroutines.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/RigidbodyForces.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIButtons.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DestroyProjectile.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/VirtualCameraController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -27,6 +28,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/GameArtData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InstantiateTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/MovementData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerExitEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/StartEvent.cs" root0="FORCE_HIGHLIGHTING" />
@@ -66,6 +68,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/UIButtons.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ESCEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DestroyProjectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InstantiateTutorial.cs" />
       </list>
     </option>
   </component>
@@ -146,6 +150,7 @@
       <workItem from="1581228138579" duration="1629000" />
       <workItem from="1581355035198" duration="3495000" />
       <workItem from="1581741174850" duration="4750000" />
+      <workItem from="1581920315349" duration="2246000" />
     </task>
     <servers />
   </component>

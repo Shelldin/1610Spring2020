@@ -35,6 +35,8 @@
           <e p="UnityTutorialScripts" t="Include">
             <e p="ClassConstructorTutorial.cs" t="Include" />
             <e p="DeltaTimeTutorial.cs" t="Include" />
+            <e p="DestroyProjectile.cs" t="Include" />
+            <e p="InstantiateTutorial.cs" t="Include" />
             <e p="MouseDownTutorial.cs" t="Include" />
           </e>
           <e p="VirtualCameraController.cs" t="Include" />
