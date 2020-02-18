@@ -33,6 +33,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerExitEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/StartEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerEnterEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InvokeTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
@@ -70,6 +71,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MenuController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DestroyProjectile.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InstantiateTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ArraysTutorial.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InvokeTutorial.cs" />
       </list>
     </option>
   </component>
@@ -151,6 +154,7 @@
       <workItem from="1581355035198" duration="3495000" />
       <workItem from="1581741174850" duration="4750000" />
       <workItem from="1581920315349" duration="2246000" />
+      <workItem from="1582007514386" duration="1624000" />
     </task>
     <servers />
   </component>
