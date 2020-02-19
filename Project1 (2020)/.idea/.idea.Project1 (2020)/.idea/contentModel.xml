@@ -37,6 +37,7 @@
             <e p="DeltaTimeTutorial.cs" t="Include" />
             <e p="DestroyProjectile.cs" t="Include" />
             <e p="InstantiateTutorial.cs" t="Include" />
+            <e p="InvokeRepeatTutorial.cs" t="Include" />
             <e p="InvokeTutorial.cs" t="Include" />
             <e p="MouseDownTutorial.cs" t="Include" />
           </e>
