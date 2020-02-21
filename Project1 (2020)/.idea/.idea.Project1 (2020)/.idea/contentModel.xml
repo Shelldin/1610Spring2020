@@ -11,6 +11,7 @@
           <e p="DataScripts" t="Include">
             <e p="FloatData.cs" t="Include" />
             <e p="GameArtData.cs" t="Include" />
+            <e p="IntData.cs" t="Include" />
             <e p="MovementData.cs" t="Include" />
             <e p="PlayerData.cs" t="Include" />
           </e>

@@ -13,6 +13,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://D:/GitHub Repos/1620Fall2019/CreateProjectPractice/Assets/Scripts/Movement.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ClassConstructorTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -80,6 +81,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/IntInClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/FloatDataInClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/IntData.cs" />
       </list>
     </option>
   </component>
@@ -162,7 +164,9 @@
       <workItem from="1581741174850" duration="4750000" />
       <workItem from="1581920315349" duration="2246000" />
       <workItem from="1582007514386" duration="1624000" />
-      <workItem from="1582093499493" duration="4506000" />
+      <workItem from="1582093499493" duration="4592000" />
+      <workItem from="1582267147764" duration="72000" />
+      <workItem from="1582268142408" duration="188000" />
     </task>
     <servers />
   </component>
