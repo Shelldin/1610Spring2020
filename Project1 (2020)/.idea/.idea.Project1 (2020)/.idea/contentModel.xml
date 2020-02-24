@@ -21,9 +21,10 @@
             <e p="FloatDataInClass.cs" t="Include" />
             <e p="IfStatements.cs" t="Include" />
             <e p="ImageBehaviour.cs" t="Include" />
-            <e p="IntInClass.cs" t="Include" />
+            <e p="IntDataInClass.cs" t="Include" />
             <e p="NewClass.cs" t="Include" />
             <e p="RigidbodyForces.cs" t="Include" />
+            <e p="TextBehavior.cs" t="Include" />
             <e p="TriggerEvents.cs" t="Include" />
           </e>
           <e p="MenuController.cs" t="Include" />

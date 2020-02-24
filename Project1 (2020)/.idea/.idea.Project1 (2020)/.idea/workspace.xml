@@ -25,6 +25,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ConvoScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TextBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/VirtualCameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DeltaTimeTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/GameArtData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -44,7 +45,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/MouseDownTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://D:/GitHub Repos/1620Fall2019/CreateProjectPractice/Assets/Scripts/CoRoutines/Coroutines.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/Compass.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/IntInClass.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -81,11 +81,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InvokeTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InvokeRepeatTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/IntInClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/FloatDataInClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/Compass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ConvoScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/IntInClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TextBehavior.cs" />
       </list>
     </option>
   </component>
@@ -173,6 +174,7 @@
       <workItem from="1582268142408" duration="188000" />
       <workItem from="1582350716720" duration="103000" />
       <workItem from="1582350865992" duration="1375000" />
+      <workItem from="1582542550711" duration="3555000" />
     </task>
     <servers />
   </component>
