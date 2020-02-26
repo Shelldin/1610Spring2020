@@ -50,6 +50,20 @@
           </e>
           <e p="VirtualCameraController.cs" t="Include" />
         </e>
+        <e p="TextAdventureTutorial" t="Include">
+          <e p="Text_Adventure" t="Include">
+            <e p="Assets" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="GameControllerScript.cs" t="Include" />
+                <e p="RoomNav.cs" t="Include" />
+                <e p="RoomSO.cs" t="Include" />
+              </e>
+            </e>
+            <e p="ProjectSettings" t="Include">
+              <e p="ProjectVersion.txt" t="Include" />
+            </e>
+          </e>
+        </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
