@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 17eced404b6fe7747971ad21d525b1e2, type: 3}
   m_Name: Start Room
   m_EditorClassIdentifier: 
-  roomDescription: 
-  roomName: 
+  roomDescription: Ye find yeself in yon dungeon. Ye see a Flask. Obvious exits are
+    North, South, and Dennis.
+  roomName: Yon Dungeon
