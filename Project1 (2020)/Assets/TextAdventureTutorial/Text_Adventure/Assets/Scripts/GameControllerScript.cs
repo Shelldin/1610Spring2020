@@ -11,7 +11,8 @@ public class GameControllerScript : MonoBehaviour
     public Text displayText;
     
     [HideInInspector] public RoomNav roomNav;
-    
+    [HideInInspector] public List<string> inRoomInteractions = new List<string>();
+
     List<string> actionLog = new List<string>();
     void Awake()
     {
@@ -33,9 +34,18 @@ public class GameControllerScript : MonoBehaviour
 
     public void DisplayRoomText()
     {
-        string combinedText = roomNav.currentRoom.roomDescription + "\n";
+        UnpackRoom();
+
+        string joinedInteractionDiscriptions = string.Join("\n", inRoomInteractions.ToArray());
+        
+        string combinedText = roomNav.currentRoom.roomDescription + "\n" + joinedInteractionDiscriptions;
         
         LogStringWithReturn(combinedText);
+    }
+
+    private void UnpackRoom()
+    {
+        roomNav.UnpackExits();
     }
 
     public void LogStringWithReturn(string stringToAdd)

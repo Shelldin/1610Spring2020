@@ -9,4 +9,6 @@ public class RoomSO : ScriptableObject
     public string roomDescription;
 
     public string roomName;
+
+    public Exits[] exits;
 }

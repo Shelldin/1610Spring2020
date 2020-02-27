@@ -15,3 +15,13 @@ MonoBehaviour:
   roomDescription: Ye find yeself in yon dungeon. Ye see a Flask. Obvious exits are
     North, South, and Dennis.
   roomName: Yon Dungeon
+  exits:
+  - keyString: North
+    exitDescription: Ye see yonder exit to the North
+    valueRoom: {fileID: 11400000, guid: fed5124c214455a46a1c31504e083f8b, type: 2}
+  - keyString: South
+    exitDescription: Ye see yonder exit to the South
+    valueRoom: {fileID: 0}
+  - keyString: Dennis
+    exitDescription: Ye see yonder Dennis. Hello Dennis.
+    valueRoom: {fileID: 0}
