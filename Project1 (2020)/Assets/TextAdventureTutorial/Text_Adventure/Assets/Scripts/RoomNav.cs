@@ -8,6 +8,8 @@ public class RoomNav : MonoBehaviour
 {
   public RoomSO currentRoom;
 
+  Dictionary<string, RoomSO> exitDictionary = new Dictionary<string, RoomSO>();
+  
   private GameControllerScript gameController;
 
   private void Awake()
@@ -19,7 +21,27 @@ public class RoomNav : MonoBehaviour
   {
     for (int i = 0; i < currentRoom.exits.Length; i++)
     {
+      exitDictionary.Add(currentRoom.exits[i].keyString, currentRoom.exits[i].valueRoom);
       gameController.inRoomInteractions.Add(currentRoom.exits[i].exitDescription);
     }
+  }
+
+  private void AttemptToChangeRooms(string direction)
+  {
+    if (exitDictionary.ContainsKey(direction))
+    {
+      currentRoom = exitDictionary[direction];
+      gameController.LogStringWithReturn("Ye embarketh to the" +direction);
+      gameController.DisplayRoomText();
+    }
+    else
+    {
+      gameController.LogStringWithReturn("Ye cannot go" +direction);
+    }
+  }
+
+  public void ClearExits()
+  {
+    exitDictionary.Clear();
   }
 }
