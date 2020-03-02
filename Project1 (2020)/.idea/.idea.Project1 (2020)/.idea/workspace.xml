@@ -35,6 +35,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/GameArtData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InvokeRepeatTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyPatrolCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InstantiateTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/MovementData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -97,6 +98,7 @@
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/TextInput.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/RoomNav.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/GameControllerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyPatrolCoroutine.cs" />
       </list>
     </option>
   </component>
