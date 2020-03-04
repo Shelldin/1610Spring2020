@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5185351316191744453}
   - component: {fileID: 5185351316191744454}
   - component: {fileID: 8314595277041518108}
+  - component: {fileID: 8677577287902817821}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -91,6 +92,34 @@ MonoBehaviour:
   triggerExitEvent:
     m_PersistentCalls:
       m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &8677577287902817821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5185351316191744455}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efb123f769262844c80c3165b4102277, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: 351d9f07b62b03548b370afb9ef6e321, type: 2}
+        m_MethodName: ChangePosition
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 5185351316191744457}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Transform, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!1 &7597176493070910494
