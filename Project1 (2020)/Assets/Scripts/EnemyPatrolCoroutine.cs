@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
@@ -17,15 +18,23 @@ public class EnemyPatrolCoroutine : MonoBehaviour
         shootRepeat,
         shootEnd;
 
+    private void FixedUpdate()
+    {
+        controller.Move(position* Time.deltaTime);
+        position.x = moveData.moveSpeed;
+    }
+
     private IEnumerator moveCoroutine,
-        fireCoroutine;
+        shootCoroutine;
 
     public float seconds = 1f;
 
     public GameObject projectileInstancerObj,
     spriteRendererObj;
 
-    public int counter;
+    public int counter,
+        counterReset,
+        shotCount;
 
     private WaitForSeconds wfsObj;
 
@@ -33,6 +42,7 @@ public class EnemyPatrolCoroutine : MonoBehaviour
     {
         controller = GetComponent<CharacterController>();
         wfsObj = new WaitForSeconds(seconds);
+        counterReset = counter;
     }
 
     public void CallMoveCoroutine()
@@ -41,20 +51,44 @@ public class EnemyPatrolCoroutine : MonoBehaviour
         StartCoroutine(moveCoroutine);
     }
 
+    public void CallShootCoroutine()
+    {
+        shootCoroutine = ShootCoroutine();
+        StartCoroutine(shootCoroutine);
+    }
+
+    private void ResetCounter()
+    {
+        counter = counterReset;
+    }
+
     IEnumerator MoveCoroutine()
     {
 
-        controller.Move(position * Time.deltaTime);
-        position.x = moveData.moveSpeed;
+        moveStart.Invoke();
         while (counter > 0)
         { 
-            controller.Move(position * Time.deltaTime);
-            position.x = moveData.moveSpeed; 
+            moveRepeat.Invoke();
             yield return wfsObj;
             counter -= 1;
         }
+
+        shotCount = 2;
         moveEnd.Invoke();
         
+    }
+
+    IEnumerator ShootCoroutine()
+    {
+        shootStart.Invoke();
+        while (shotCount > 0)
+        {
+            shootRepeat.Invoke();
+            yield return wfsObj;
+            shotCount-= 1;
+        }
+        ResetCounter();
+        shootEnd.Invoke();
     }
 
 

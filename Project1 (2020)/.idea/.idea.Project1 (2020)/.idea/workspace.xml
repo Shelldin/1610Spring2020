@@ -44,6 +44,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerExitEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/FloatDataInClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/StartEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/ImageBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerEnterEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/MonoBehaviors.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InvokeTutorial.cs" root0="FORCE_HIGHLIGHTING" />
@@ -75,7 +76,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DeltaTimeTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ClassConstructorTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StateManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/MovementData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/IfStatements.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
@@ -101,10 +101,11 @@
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/TextInput.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/RoomNav.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/GameControllerScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyPatrolCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/StringData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/MonoBehaviors.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/Vector3Data.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/MovementData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyPatrolCoroutine.cs" />
       </list>
     </option>
   </component>
@@ -198,7 +199,8 @@
       <workItem from="1582785328508" duration="1406000" />
       <workItem from="1582955377097" duration="1913000" />
       <workItem from="1583304001243" duration="175000" />
-      <workItem from="1583342316099" duration="2438000" />
+      <workItem from="1583342316099" duration="3641000" />
+      <workItem from="1583472096095" duration="4164000" />
     </task>
     <servers />
   </component>

@@ -34,4 +34,14 @@ public class MovementData : GameArtData
     {
         jumpCountMax += amount;
     }
+
+    public void ReverseMoveSpeed()
+    {
+        moveSpeed *= -1;
+    }
+
+    public void SetMoveSpeed(float amount)
+    {
+        moveSpeed = amount;
+    }
 }
