@@ -15,6 +15,6 @@ MonoBehaviour:
   roomDescription: Ye have entered yonder room to the north. Obvious exits are South.
   roomName: North Room
   exits:
-  - keyString: South
+  - keyString: south
     exitDescription: Ye see yonder exit to the south
     valueRoom: {fileID: 11400000, guid: 0404943da6a4cdb4b9aaae8ae21065ab, type: 2}

@@ -106,10 +106,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/MovementData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyPatrolCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/InputAction.cs" />
-        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/RoomNav.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Go.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/GameControllerScript.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/TextInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/RoomNav.cs" />
       </list>
     </option>
   </component>
@@ -205,7 +205,7 @@
       <workItem from="1583304001243" duration="175000" />
       <workItem from="1583342316099" duration="3641000" />
       <workItem from="1583472096095" duration="4164000" />
-      <workItem from="1583561741043" duration="1343000" />
+      <workItem from="1583561741043" duration="1979000" />
     </task>
     <servers />
   </component>
