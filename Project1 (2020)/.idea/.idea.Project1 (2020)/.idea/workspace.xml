@@ -11,6 +11,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/InputAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Go.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/GameControllerScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://D:/GitHub Repos/1620Fall2019/CreateProjectPractice/Assets/Scripts/Movement.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ClassConstructorTutorial.cs" root0="FORCE_HIGHLIGHTING" />
@@ -98,14 +100,16 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TextBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/RoomSO.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Exits.cs" />
-        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/TextInput.cs" />
-        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/RoomNav.cs" />
-        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/GameControllerScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/StringData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/MonoBehaviors.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/Vector3Data.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/MovementData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyPatrolCoroutine.cs" />
+        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/InputAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/RoomNav.cs" />
+        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Go.cs" />
+        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/GameControllerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/TextInput.cs" />
       </list>
     </option>
   </component>
@@ -201,6 +205,7 @@
       <workItem from="1583304001243" duration="175000" />
       <workItem from="1583342316099" duration="3641000" />
       <workItem from="1583472096095" duration="4164000" />
+      <workItem from="1583561741043" duration="1343000" />
     </task>
     <servers />
   </component>

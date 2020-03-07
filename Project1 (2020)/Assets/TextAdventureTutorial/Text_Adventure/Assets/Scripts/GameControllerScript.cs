@@ -9,6 +9,8 @@ using UnityEngine.UI;
 public class GameControllerScript : MonoBehaviour
 {
     public Text displayText;
+
+    public InputAction[] inputActions;
     
     [HideInInspector] public RoomNav roomNav;
     [HideInInspector] public List<string> inRoomInteractions = new List<string>();

@@ -26,17 +26,17 @@ public class RoomNav : MonoBehaviour
     }
   }
 
-  private void AttemptToChangeRooms(string direction)
+  public void AttemptToChangeRooms(string direction)
   {
     if (exitDictionary.ContainsKey(direction))
     {
       currentRoom = exitDictionary[direction];
-      gameController.LogStringWithReturn("Ye embarketh to the" +direction);
+      gameController.LogStringWithReturn("Ye embarketh to the " +direction);
       gameController.DisplayRoomText();
     }
     else
     {
-      gameController.LogStringWithReturn("Ye cannot go" +direction);
+      gameController.LogStringWithReturn("Ye cannot go " +direction);
     }
   }
 

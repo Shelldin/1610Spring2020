@@ -16,12 +16,12 @@ MonoBehaviour:
     North, South, and Dennis.
   roomName: Yon Dungeon
   exits:
-  - keyString: North
+  - keyString: north
     exitDescription: Ye see yonder exit to the North
     valueRoom: {fileID: 11400000, guid: fed5124c214455a46a1c31504e083f8b, type: 2}
-  - keyString: South
+  - keyString: south
     exitDescription: Ye see yonder exit to the South
     valueRoom: {fileID: 0}
-  - keyString: Dennis
+  - keyString: dennis
     exitDescription: Ye see yonder Dennis. Hello Dennis.
     valueRoom: {fileID: 0}

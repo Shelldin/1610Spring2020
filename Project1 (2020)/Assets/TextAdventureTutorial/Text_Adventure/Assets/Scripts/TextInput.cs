@@ -18,12 +18,25 @@ public class TextInput : MonoBehaviour
     }
 
     private void AcceptStringInput(string userInput)
-  {
-      userInput = userInput.ToLower();
-      controller.LogStringWithReturn(userInput);
-      InputComplete();
-      
-  }
+    {
+        userInput = userInput.ToLower();
+        controller.LogStringWithReturn(userInput);
+
+        char[] delimiterCharacters = {' '};
+        string[] separatedInputWords = userInput.Split(delimiterCharacters);
+
+        for (int i = 0; i < controller.inputActions.Length; i++)
+        {
+            InputAction inputAction = controller.inputActions[i];
+            if (inputAction.keyWord == separatedInputWords[0])
+            {
+                inputAction.RespondToInput(controller, separatedInputWords);
+            }
+        }
+
+        InputComplete();
+
+    }
 
     private void InputComplete()
     {
