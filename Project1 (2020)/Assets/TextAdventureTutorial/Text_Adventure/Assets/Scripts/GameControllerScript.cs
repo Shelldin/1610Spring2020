@@ -14,10 +14,12 @@ public class GameControllerScript : MonoBehaviour
     
     [HideInInspector] public RoomNav roomNav;
     [HideInInspector] public List<string> inRoomInteractions = new List<string>();
+    [HideInInspector] public UsableItems useableItems;
 
     List<string> actionLog = new List<string>();
     void Awake()
     {
+        useableItems = GetComponent<UsableItems>();
         roomNav = GetComponent<RoomNav>();
     }
 
@@ -50,7 +52,21 @@ public class GameControllerScript : MonoBehaviour
     private void UnpackRoom()
     {
         roomNav.UnpackExits();
+        PrepareItemsToTakeOrExamine(roomNav.currentRoom);
     }
+
+    private void PrepareItemsToTakeOrExamine(RoomSO currentRoom)
+    {
+        for (int i = 0; i < currentRoom.interactableItemsInRoom.Length; i++)
+        {
+            string descriptionNotInInv = useableItems.GetItemNotInInv(currentRoom, i);
+            if (descriptionNotInInv!= null)
+            {
+                inRoomInteractions.Add(descriptionNotInInv);
+            }
+        }
+    }
+    
 
     private void ClearCollectionsForNewRoom()
     {

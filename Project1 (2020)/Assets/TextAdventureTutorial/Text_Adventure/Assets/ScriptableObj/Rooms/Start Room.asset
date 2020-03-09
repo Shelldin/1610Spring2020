@@ -25,3 +25,5 @@ MonoBehaviour:
   - keyString: dennis
     exitDescription: Ye see yonder Dennis. Hello Dennis.
     valueRoom: {fileID: 0}
+  interactableItemsInRoom:
+  - {fileID: 11400000, guid: af78ba007c29cda45a26bad09e1b44a9, type: 2}

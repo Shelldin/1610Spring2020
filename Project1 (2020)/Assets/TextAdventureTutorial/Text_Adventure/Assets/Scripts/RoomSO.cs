@@ -11,4 +11,6 @@ public class RoomSO : ScriptableObject
     public string roomName;
 
     public Exits[] exits;
+
+    public InteractableItems[] interactableItemsInRoom;
 }
