@@ -10,4 +10,6 @@ public class InteractableItems : ScriptableObject
     [TextArea]
     public string itemDescription = "description";
 
+    public Interaction[] interactions;
+
 }

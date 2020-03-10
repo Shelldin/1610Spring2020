@@ -4,6 +4,8 @@ using UnityEngine;
 //from unity tutorial
 public class UsableItems : MonoBehaviour
 {
+    public Dictionary<string, string> examineDictionary = new Dictionary<string, string>();
+    
     [HideInInspector] public List<string> nounsInRoom = new List<string>();
     
     List<string> nounsInInv = new List<string>();
@@ -19,5 +21,11 @@ public class UsableItems : MonoBehaviour
         }
 
         return null;
+    }
+
+    public void ClearCollections()
+    {
+        examineDictionary.Clear();
+        nounsInRoom.Clear();
     }
 }

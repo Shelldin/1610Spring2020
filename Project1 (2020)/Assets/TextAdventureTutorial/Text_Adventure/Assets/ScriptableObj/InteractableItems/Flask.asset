@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74366f65666103b4a937b592490d9f5d, type: 3}
   m_Name: Flask
   m_EditorClassIdentifier: 
-  noun: Ye Flask
+  noun: flask
   itemDescription: Ye see a Flask
+  interactions:
+  - inputAction: {fileID: 11400000, guid: 8bc8de7aedd5f204195b4c3b66116893, type: 2}
+    textResponse: It is firmly bolted to a wall which is bolted to the rest of the
+      dungeon which is probably bolted to a castle.

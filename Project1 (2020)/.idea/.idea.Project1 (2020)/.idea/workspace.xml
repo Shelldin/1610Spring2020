@@ -11,13 +11,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://D:/GitHub Repos/1620Fall2019/CreateProjectPractice/Assets/Scripts/Movement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ConvoScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TextBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DeltaTimeTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyPatrolCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/MonoBehaviors.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/RoomNav.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/GitHub Repos/1620Fall2019/CreateProjectPractice/Assets/Scripts/CoRoutines/Coroutines.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/InteractableItems.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/InputAction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Go.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/GameControllerScript.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://D:/GitHub Repos/1620Fall2019/CreateProjectPractice/Assets/Scripts/Movement.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ClassConstructorTutorial.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Interaction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -26,21 +36,18 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coroutines.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/RigidbodyForces.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIButtons.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Examine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DestroyProjectile.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ConvoScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/RoomSO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/UsableItems.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/TextInput.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TextBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Exits.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/VirtualCameraController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DeltaTimeTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/GameArtData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InvokeRepeatTutorial.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyPatrolCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InstantiateTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/MovementData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -49,22 +56,15 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/StartEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/ImageBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerEnterEvent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/MonoBehaviors.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InvokeTutorial.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/RoomNav.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/MouseDownTutorial.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://D:/GitHub Repos/1620Fall2019/CreateProjectPractice/Assets/Scripts/CoRoutines/Coroutines.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/Compass.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/InteractableItems.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/NewClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/NewClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityEvents/StartEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerEnterEvent.cs" />
@@ -111,7 +111,9 @@
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/TextInput.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/RoomNav.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/RoomSO.cs" />
+        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Interaction.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/InteractableItems.cs" />
+        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Examine.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/UsableItems.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/GameControllerScript.cs" />
       </list>
@@ -211,6 +213,7 @@
       <workItem from="1583472096095" duration="4164000" />
       <workItem from="1583561741043" duration="1979000" />
       <workItem from="1583730925318" duration="2498000" />
+      <workItem from="1583811910446" duration="2400000" />
     </task>
     <servers />
   </component>

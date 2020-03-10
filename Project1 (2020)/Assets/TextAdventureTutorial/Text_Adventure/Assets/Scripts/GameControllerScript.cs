@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -64,12 +62,34 @@ public class GameControllerScript : MonoBehaviour
             {
                 inRoomInteractions.Add(descriptionNotInInv);
             }
+
+            InteractableItems interactableInRoom = currentRoom.interactableItemsInRoom[i];
+
+            for (int j = 0; j < interactableInRoom.interactions.Length; j++)
+            {
+                Interaction interaction = interactableInRoom.interactions[j];
+                if (interaction.inputAction.keyWord == "examine")
+                {
+                    useableItems.examineDictionary.Add (interactableInRoom.noun, interaction.textResponse);
+                }
+            }
         }
+    }
+    
+    public string TestVerbDictionaryWithNoun(Dictionary<string, string> verbDictionary, string verb, string noun)
+    {
+        if (verbDictionary.ContainsKey(noun))
+        {
+            return verbDictionary[noun];
+        }
+
+        return "Ye cannot " + verb + " " + noun;
     }
     
 
     private void ClearCollectionsForNewRoom()
     {
+        useableItems.ClearCollections();
         inRoomInteractions.Clear();
         roomNav.ClearExits();
     }
