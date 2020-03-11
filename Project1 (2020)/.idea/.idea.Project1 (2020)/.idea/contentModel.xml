@@ -18,13 +18,20 @@
             <e p="Vector3Data.cs" t="Include" />
           </e>
           <e p="Debugger.cs" t="Include" />
-          <e p="EnemyPatrolCoroutine.cs" t="Include" />
+          <e p="EnemyStuff" t="Include">
+            <e p="EnemyMovement.cs" t="Include" />
+            <e p="EnemyPatrolCoroutine.cs" t="Include" />
+            <e p="EnemySpriteFlip.cs" t="Include" />
+          </e>
           <e p="InClassExampleStuff" t="Include">
             <e p="CharacterMovement.cs" t="Include" />
+            <e p="Collectable.cs" t="Include" />
+            <e p="CollectableList.cs" t="Include" />
             <e p="FloatDataInClass.cs" t="Include" />
             <e p="IfStatements.cs" t="Include" />
             <e p="ImageBehaviour.cs" t="Include" />
             <e p="IntDataInClass.cs" t="Include" />
+            <e p="ListsAndLoops.cs" t="Include" />
             <e p="MonoBehaviors.cs" t="Include" />
             <e p="NewClass.cs" t="Include" />
             <e p="RigidbodyForces.cs" t="Include" />

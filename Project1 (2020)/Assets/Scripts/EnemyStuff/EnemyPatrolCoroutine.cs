@@ -18,11 +18,6 @@ public class EnemyPatrolCoroutine : MonoBehaviour
         shootRepeat,
         shootEnd;
 
-    private void FixedUpdate()
-    {
-        controller.Move(position* Time.deltaTime);
-        position.x = moveData.moveSpeed;
-    }
 
     private IEnumerator moveCoroutine,
         shootCoroutine;
