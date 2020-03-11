@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81e54717fe738ce41b450ad74e2afe75, type: 3}
   m_Name: PlayerOne
   m_EditorClassIdentifier: 
-  sprite: {fileID: 21300000, guid: 78ef1bb12644bbf4ab2a36a1b9800bea, type: 3}
-  color: {r: 1, g: 0, b: 0, a: 1}
+  sprite: {fileID: 21300000, guid: f6bf2ea10ceef674d93039b71ebc5839, type: 3}
+  color: {r: 1, g: 1, b: 1, a: 1}
   prefab: {fileID: 5185351316191744455, guid: 0e30ff0346e44d6419c232ca510539ac, type: 3}
   onRunEvent:
     m_PersistentCalls:
