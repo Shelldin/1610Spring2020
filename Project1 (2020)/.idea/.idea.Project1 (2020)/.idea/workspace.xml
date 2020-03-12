@@ -115,10 +115,10 @@
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/GameControllerScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyPatrolCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyMovement.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyStuff/EnemySpriteFlip.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/ListsAndLoops.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/Collectable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/CollectableList.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyStuff/EnemySpriteFlip.cs" />
       </list>
     </option>
   </component>
@@ -217,7 +217,7 @@
       <workItem from="1583561741043" duration="1979000" />
       <workItem from="1583730925318" duration="2498000" />
       <workItem from="1583811910446" duration="3001000" />
-      <workItem from="1583942824054" duration="3974000" />
+      <workItem from="1583942824054" duration="4279000" />
     </task>
     <servers />
   </component>

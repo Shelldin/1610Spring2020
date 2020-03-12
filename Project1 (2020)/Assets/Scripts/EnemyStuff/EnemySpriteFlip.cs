@@ -5,12 +5,17 @@ using UnityEngine;
 [RequireComponent(typeof(SpriteRenderer))]
 public class EnemySpriteFlip : MonoBehaviour
 {
-    public Movement moveData;
+    public MovementData moveData;
 
     private SpriteRenderer spriteRenderer;
 
     private void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
+    }
+
+    private void Update()
+    {
+       
     }
 }
