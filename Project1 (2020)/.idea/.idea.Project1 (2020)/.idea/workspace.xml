@@ -13,6 +13,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://D:/GitHub Repos/1620Fall2019/CreateProjectPractice/Assets/Scripts/Movement.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/ActionResponse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ConvoScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TextBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DeltaTimeTutorial.cs" root0="FORCE_HIGHLIGHTING" />
@@ -67,12 +68,11 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/MouseDownTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/Compass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/ChangeRoomResponse.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/VirtualCameraController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Debugger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DeltaTimeTutorial.cs" />
@@ -108,7 +108,6 @@
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/TextInput.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/RoomNav.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/RoomSO.cs" />
-        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Interaction.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/InteractableItems.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Examine.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyPatrolCoroutine.cs" />
@@ -122,6 +121,9 @@
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Take.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/UsableItems.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/ActionResponse.cs" />
+        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/ChangeRoomResponse.cs" />
+        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Interaction.cs" />
       </list>
     </option>
   </component>
@@ -222,7 +224,7 @@
       <workItem from="1583811910446" duration="3001000" />
       <workItem from="1583942824054" duration="4279000" />
       <workItem from="1584485421929" duration="1059000" />
-      <workItem from="1584765683180" duration="1922000" />
+      <workItem from="1584765683180" duration="2974000" />
     </task>
     <servers />
   </component>

@@ -65,6 +65,8 @@
           <e p="Text_Adventure" t="Include">
             <e p="Assets" t="Include">
               <e p="Scripts" t="Include">
+                <e p="ActionResponse.cs" t="Include" />
+                <e p="ChangeRoomResponse.cs" t="Include" />
                 <e p="Examine.cs" t="Include" />
                 <e p="Exits.cs" t="Include" />
                 <e p="GameControllerScript.cs" t="Include" />
