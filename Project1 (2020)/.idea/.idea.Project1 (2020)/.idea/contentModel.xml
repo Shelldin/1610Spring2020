@@ -72,6 +72,7 @@
                 <e p="InputAction.cs" t="Include" />
                 <e p="InteractableItems.cs" t="Include" />
                 <e p="Interaction.cs" t="Include" />
+                <e p="Inventory.cs" t="Include" />
                 <e p="RoomNav.cs" t="Include" />
                 <e p="RoomSO.cs" t="Include" />
                 <e p="Take.cs" t="Include" />

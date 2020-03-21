@@ -37,6 +37,16 @@ public class UsableItems : MonoBehaviour
         return null;
     }
 
+    public void DisplayInventory()
+    {
+        controller.LogStringWithReturn("Ye taketh a gander in thy rucksack, ye beholdeth: ");
+
+        for (int i = 0; i < nounsInInv.Count; i++)
+        {
+            controller.LogStringWithReturn(nounsInInv [i]);
+        }
+    }
+
     public void ClearCollections()
     {
         examineDictionary.Clear();

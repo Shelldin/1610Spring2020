@@ -16,6 +16,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ConvoScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TextBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DeltaTimeTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Inventory.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/MonoBehaviors.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/RoomNav.cs" root0="FORCE_HIGHLIGHTING" />
@@ -70,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/VirtualCameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/GameArtData.cs" />
@@ -119,8 +119,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyStuff/EnemySpriteFlip.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyStuff/EnemyPatrolCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/GameControllerScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/UsableItems.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Take.cs" />
+        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/UsableItems.cs" />
+        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Inventory.cs" />
       </list>
     </option>
   </component>
@@ -221,7 +222,7 @@
       <workItem from="1583811910446" duration="3001000" />
       <workItem from="1583942824054" duration="4279000" />
       <workItem from="1584485421929" duration="1059000" />
-      <workItem from="1584765683180" duration="1160000" />
+      <workItem from="1584765683180" duration="1922000" />
     </task>
     <servers />
   </component>
