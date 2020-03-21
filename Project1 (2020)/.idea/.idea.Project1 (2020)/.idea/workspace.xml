@@ -119,11 +119,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/EnemyStuff/EnemyPatrolCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/GameControllerScript.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Take.cs" />
-        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/UsableItems.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Inventory.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/ActionResponse.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/ChangeRoomResponse.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Interaction.cs" />
+        <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/UsableItems.cs" />
       </list>
     </option>
   </component>
@@ -224,7 +224,7 @@
       <workItem from="1583811910446" duration="3001000" />
       <workItem from="1583942824054" duration="4279000" />
       <workItem from="1584485421929" duration="1059000" />
-      <workItem from="1584765683180" duration="2974000" />
+      <workItem from="1584765683180" duration="3955000" />
     </task>
     <servers />
   </component>

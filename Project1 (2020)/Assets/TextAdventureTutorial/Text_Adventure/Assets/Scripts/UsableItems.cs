@@ -7,14 +7,15 @@ using UnityEngine;
 [RequireComponent(typeof(GameControllerScript))]
 public class UsableItems : MonoBehaviour
 {
+    public List<InteractableItems> usableItemList;
+    
     public Dictionary<string, string> examineDictionary = new Dictionary<string, string>();
     public Dictionary<string, string> takeDictionary = new Dictionary<string, string>();
 
-
-
-    
     [HideInInspector] public List<string> nounsInRoom = new List<string>();
-    
+
+    private Dictionary<string, ActionResponse> useDictionary = new Dictionary<string, ActionResponse>();
+
     List<string> nounsInInv = new List<string>();
 
     private GameControllerScript controller;
@@ -32,6 +33,44 @@ public class UsableItems : MonoBehaviour
         {
             nounsInRoom.Add(ItemsInRoom.noun);
             return ItemsInRoom.itemDescription;
+        }
+
+        return null;
+    }
+
+    public void AddActionResponsesToUseDictionary()
+    {
+        for (int i = 0; i < nounsInInv.Count; i++)
+        {
+            string noun = nounsInInv[i];
+
+            InteractableItems interactableItemsInInv = GetInteractableItemFromUsableList(noun);
+            if (interactableItemsInInv == null)
+                continue;
+
+            for (int j = 0; j < interactableItemsInInv.interactions.Length; j++)
+            {
+                Interaction interaction = interactableItemsInInv.interactions[j];
+
+                if (interaction.actionResponse == null)
+                    continue;
+
+                if (!useDictionary.ContainsKey(noun))
+                {
+                    useDictionary.Add(noun, interaction.actionResponse);
+                }
+            }
+        } 
+    }
+
+    InteractableItems GetInteractableItemFromUsableList(string noun)
+    {
+        for (int i = 0; i < usableItemList.Count; i++)
+        {
+            if (usableItemList[i].noun == noun)
+            {
+                return usableItemList[i];
+            }
         }
 
         return null;
@@ -60,6 +99,7 @@ public class UsableItems : MonoBehaviour
         if (nounsInRoom.Contains(noun))
         {
             nounsInInv.Add(noun);
+            AddActionResponsesToUseDictionary();
             nounsInRoom.Remove(noun);
             return takeDictionary;
         }
