@@ -80,6 +80,7 @@
                 <e p="Take.cs" t="Include" />
                 <e p="TextInput.cs" t="Include" />
                 <e p="UsableItems.cs" t="Include" />
+                <e p="Use.cs" t="Include" />
               </e>
             </e>
             <e p="ProjectSettings" t="Include">

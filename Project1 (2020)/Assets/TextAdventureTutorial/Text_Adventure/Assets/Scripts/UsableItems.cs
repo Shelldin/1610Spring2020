@@ -110,4 +110,29 @@ public class UsableItems : MonoBehaviour
             return null;
         }
     }
+
+    public void UseItem(string[] separatedInputWords)
+    {
+        string nounToUse = separatedInputWords[1];
+
+        if (nounsInInv.Contains(nounToUse))
+        {
+            if (useDictionary.ContainsKey(nounToUse))
+            {
+                bool actionResult = useDictionary[nounToUse].DoActionResponse(controller);
+                if (!actionResult)
+                {
+                    controller.LogStringWithReturn("OAK: This isn't the time to use that!");
+                }
+            }
+            else
+            {
+                controller.LogStringWithReturn("Thou cannotst deau that.");
+            }
+        }
+        else
+        {
+            controller.LogStringWithReturn("Thou cannotst deau that. Quit making stuffeth up!");
+        }
+    }
 }

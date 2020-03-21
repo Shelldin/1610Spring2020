@@ -18,7 +18,12 @@ MonoBehaviour:
   - inputAction: {fileID: 11400000, guid: 8bc8de7aedd5f204195b4c3b66116893, type: 2}
     textResponse: It is firmly bolted to a wall which is bolted to the rest of the
       dungeon which is probably bolted to a castle.
+    actionResponse: {fileID: 0}
   - inputAction: {fileID: 11400000, guid: 0a890802389739b4c82e32e180505bb3, type: 2}
     textResponse: You unbolt yon FLASK and hold it aloft. A great shaking begins.
       The dungeon ceiling collapses down on you, crushing you in twain. Apparently,
       this was a load-bearing FLASK.
+    actionResponse: {fileID: 0}
+  - inputAction: {fileID: 11400000, guid: dc2b31f1eb67831498a4faa82140e5e7, type: 2}
+    textResponse: 
+    actionResponse: {fileID: 0}

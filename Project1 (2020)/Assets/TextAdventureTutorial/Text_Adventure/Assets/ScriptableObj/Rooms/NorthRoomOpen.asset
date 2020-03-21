@@ -10,12 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 17eced404b6fe7747971ad21d525b1e2, type: 3}
-  m_Name: North Room
+  m_Name: NorthRoomOpen
   m_EditorClassIdentifier: 
-  roomDescription: Ye have entered yonder room to the north. Obvious exits are South.
+  roomDescription: Ye hold ye Flask  a loft and obtain new hidden knowledge of parapets!
+    Hark! Ye spy yon parapets over yonder!
   roomName: north room
   exits:
-  - keyString: south
+  - keyString: parapet
     exitDescription: Ye see yonder exit to the south
-    valueRoom: {fileID: 11400000, guid: 0404943da6a4cdb4b9aaae8ae21065ab, type: 2}
+    valueRoom: {fileID: 11400000, guid: e8c83474c36195948a53a3c1c83f6111, type: 2}
   interactableItemsInRoom: []
