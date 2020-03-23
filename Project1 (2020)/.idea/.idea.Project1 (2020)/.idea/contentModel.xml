@@ -27,6 +27,7 @@
             <e p="CharacterMovement.cs" t="Include" />
             <e p="Collectable.cs" t="Include" />
             <e p="CollectableList.cs" t="Include" />
+            <e p="EnumsSwitches.cs" t="Include" />
             <e p="FloatDataInClass.cs" t="Include" />
             <e p="IfStatements.cs" t="Include" />
             <e p="ImageBehaviour.cs" t="Include" />
