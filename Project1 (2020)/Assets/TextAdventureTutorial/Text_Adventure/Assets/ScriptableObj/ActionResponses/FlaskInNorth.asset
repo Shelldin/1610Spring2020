@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d0380ef40d3e66647a12af5d4cedbb07, type: 3}
-  m_Name: ChangeRoom
+  m_Name: FlaskInNorth
   m_EditorClassIdentifier: 
   requiredString: north room
-  roomToChangeTo: {fileID: 0}
+  roomToChangeTo: {fileID: 11400000, guid: eacbfd2d31f10bd4082951645d0040f7, type: 2}
