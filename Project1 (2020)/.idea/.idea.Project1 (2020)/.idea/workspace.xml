@@ -68,6 +68,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Take.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/AI/NavAgentBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/MouseDownTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/Compass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/ChangeRoomResponse.cs" root0="FORCE_HIGHLIGHTING" />
@@ -75,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DeltaTimeTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ClassConstructorTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StateManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines.cs" />
@@ -126,6 +126,7 @@
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/UsableItems.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Use.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/EnumsSwitches.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/AI/NavAgentBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -228,6 +229,7 @@
       <workItem from="1584485421929" duration="1059000" />
       <workItem from="1584765683180" duration="5946000" />
       <workItem from="1584980349074" duration="3411000" />
+      <workItem from="1585189136721" duration="2137000" />
     </task>
     <servers />
   </component>

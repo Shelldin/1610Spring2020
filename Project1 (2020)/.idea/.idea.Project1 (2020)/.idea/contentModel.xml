@@ -24,6 +24,9 @@
             <e p="EnemySpriteFlip.cs" t="Include" />
           </e>
           <e p="InClassExampleStuff" t="Include">
+            <e p="AI" t="Include">
+              <e p="NavAgentBehaviour.cs" t="Include" />
+            </e>
             <e p="CharacterMovement.cs" t="Include" />
             <e p="Collectable.cs" t="Include" />
             <e p="CollectableList.cs" t="Include" />
