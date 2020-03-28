@@ -27,7 +27,7 @@ public class Parallaxing : MonoBehaviour
 
         for (int i = 0; i < scenery.Length; i++)
         {
-            parallaxScaleing[i] = scenery[i].position.z;
+            parallaxScaleing[i] = scenery[i].position.z*-1;
         }
         
     }
