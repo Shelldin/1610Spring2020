@@ -14,6 +14,7 @@
     <setting file="file://D:/GitHub Repos/1620Fall2019/CreateProjectPractice/Assets/Scripts/Movement.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/ActionResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/TilingBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ConvoScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TextBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DeltaTimeTutorial.cs" root0="FORCE_HIGHLIGHTING" />
@@ -49,6 +50,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/UsableItems.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/TextInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/Tiling.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyStuff/EnemySpriteFlip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Exits.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/VirtualCameraController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -77,7 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/IfStatements.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/RigidbodyForces.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/CharacterMovement.cs" />
@@ -128,6 +129,7 @@
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Standard Assets/2D/Scripts/Platformer2DUserControl.cs" />
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/Paralaxing.cs" />
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/Parallaxing.cs" />
+        <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/TilingBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -231,7 +233,7 @@
       <workItem from="1584765683180" duration="5946000" />
       <workItem from="1584980349074" duration="3411000" />
       <workItem from="1585189136721" duration="2137000" />
-      <workItem from="1585271450367" duration="4396000" />
+      <workItem from="1585271450367" duration="10410000" />
     </task>
     <servers />
   </component>
@@ -260,6 +262,10 @@
     <state x="361" y="72" key="#Notifications/-1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1584766083005" />
     <state x="454" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581745417276" />
     <state x="454" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.1080/1920.1080" timestamp="1581745417278" />
+    <state x="-1550" y="66" width="858" height="730" maximized="true" key="dock-window-1" timestamp="1585380439124">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1550" y="66" width="858" height="730" maximized="true" key="dock-window-1/-1920.0.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1585380439124" />
     <state x="190" y="186" key="run.anything.popup" timestamp="1581745419230">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -404,6 +404,7 @@ GameObject:
   m_Component:
   - component: {fileID: 538073956}
   - component: {fileID: 538073955}
+  - component: {fileID: 538073957}
   m_Layer: 0
   m_Name: BGMountiansGrey
   m_TagString: Untagged
@@ -473,6 +474,22 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &538073957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 538073954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b68ea0659ec6b394785694e7d38e7201, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  xOffset: 2
+  rightBuddy: 0
+  leftBuddy: 0
+  reverseScale: 1
 --- !u!1 &679566125
 GameObject:
   m_ObjectHideFlags: 0
@@ -589,6 +606,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1161951801}
   - component: {fileID: 1161951800}
+  - component: {fileID: 1161951802}
   m_Layer: 0
   m_Name: ForegroundRed
   m_TagString: Untagged
@@ -658,6 +676,22 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1161951802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1161951799}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b68ea0659ec6b394785694e7d38e7201, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  xOffset: 2
+  rightBuddy: 0
+  leftBuddy: 0
+  reverseScale: 0
 --- !u!1001 &1430706751
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -670,14 +704,6 @@ PrefabInstance:
       value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 87a2357765801c34292d6718d8b4d770, type: 3}
-      propertyPath: m_Layer
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: 87a2357765801c34292d6718d8b4d770, type: 3}
-      propertyPath: m_Layer
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 100004, guid: 87a2357765801c34292d6718d8b4d770, type: 3}
       propertyPath: m_Layer
       value: 8
       objectReference: {fileID: 0}
@@ -725,9 +751,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 87a2357765801c34292d6718d8b4d770, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: 87a2357765801c34292d6718d8b4d770, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 11400002, guid: 87a2357765801c34292d6718d8b4d770, type: 3}
       propertyPath: m_WhatIsGround.m_Bits
       value: 55
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400002, guid: 87a2357765801c34292d6718d8b4d770, type: 3}
+      propertyPath: m_MaxSpeed
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 21200000, guid: 87a2357765801c34292d6718d8b4d770, type: 3}
       propertyPath: m_SortingLayerID
@@ -763,7 +801,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1463674934}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c4f2d8fe8e45ac94f948aca0be552766, type: 3}
   m_Name: 
@@ -876,6 +914,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1763596339}
   - component: {fileID: 1763596338}
+  - component: {fileID: 1763596340}
   m_Layer: 0
   m_Name: BGMountianPink
   m_TagString: Untagged
@@ -945,6 +984,22 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1763596340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1763596337}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b68ea0659ec6b394785694e7d38e7201, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  xOffset: 2
+  rightBuddy: 0
+  leftBuddy: 0
+  reverseScale: 1
 --- !u!1 &1768042710
 GameObject:
   m_ObjectHideFlags: 0
