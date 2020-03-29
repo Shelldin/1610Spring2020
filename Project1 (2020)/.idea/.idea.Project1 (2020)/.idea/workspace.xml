@@ -18,7 +18,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ConvoScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TextBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DeltaTimeTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ArmRotation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Inventory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2D Platformer Tutorial/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/MonoBehaviors.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/RoomNav.cs" root0="FORCE_HIGHLIGHTING" />
@@ -78,8 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Movement.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/RigidbodyForces.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/CharacterMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UIButtons.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ESCEvent.cs" />
@@ -129,6 +129,8 @@
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/Paralaxing.cs" />
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/Parallaxing.cs" />
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/TilingBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs" />
+        <option value="$PROJECT_DIR$/Assets/ArmRotation.cs" />
       </list>
     </option>
   </component>
@@ -232,7 +234,7 @@
       <workItem from="1584765683180" duration="5946000" />
       <workItem from="1584980349074" duration="3411000" />
       <workItem from="1585189136721" duration="2137000" />
-      <workItem from="1585271450367" duration="10413000" />
+      <workItem from="1585271450367" duration="13620000" />
     </task>
     <servers />
   </component>
