@@ -828,6 +828,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1964136585, guid: 21a0fc85ba23424459a4c4dfac43885a, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 049f09ccc5b42e840a1057babcf3c6d5, type: 2}
     - target: {fileID: 1964136584, guid: 21a0fc85ba23424459a4c4dfac43885a, type: 3}
       propertyPath: m_Material
       value: 
@@ -852,7 +856,8 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.172
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 1964136586, guid: 21a0fc85ba23424459a4c4dfac43885a, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 21a0fc85ba23424459a4c4dfac43885a, type: 3}
 --- !u!1 &1463674934
 GameObject:
@@ -1183,6 +1188,60 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1964136579 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1964136579, guid: 21a0fc85ba23424459a4c4dfac43885a,
+    type: 3}
+  m_PrefabInstance: {fileID: 1430706751}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &1964136586
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1964136579}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.8888889, y: 1.7777778}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 0
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1991349768
 GameObject:
   m_ObjectHideFlags: 0
