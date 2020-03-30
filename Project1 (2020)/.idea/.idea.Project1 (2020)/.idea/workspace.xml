@@ -50,6 +50,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/RoomSO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/UsableItems.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/Coroutines/CoroutinesExample.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/TextInput.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyStuff/EnemySpriteFlip.cs" root0="FORCE_HIGHLIGHTING" />
@@ -80,7 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/UIButtons.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ESCEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MenuController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DestroyProjectile.cs" />
@@ -90,11 +90,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InvokeRepeatTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/FloatDataInClass.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/Compass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ConvoScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/IntInClass.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TextBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Exits.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/StringData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/MonoBehaviors.cs" />
@@ -131,6 +129,9 @@
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs" />
         <option value="$PROJECT_DIR$/Assets/ArmRotation.cs" />
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/ArmRotation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/Coroutines/CoroutinesExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/IntData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TextBehavior.cs" />
       </list>
     </option>
   </component>
@@ -234,7 +235,7 @@
       <workItem from="1584765683180" duration="5946000" />
       <workItem from="1584980349074" duration="3411000" />
       <workItem from="1585189136721" duration="2137000" />
-      <workItem from="1585271450367" duration="14353000" />
+      <workItem from="1585271450367" duration="17603000" />
     </task>
     <servers />
   </component>

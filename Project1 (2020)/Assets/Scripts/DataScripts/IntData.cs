@@ -10,4 +10,6 @@ public class IntData : ScriptableObject
     {
         value += amount;
     }
+
+    
 }

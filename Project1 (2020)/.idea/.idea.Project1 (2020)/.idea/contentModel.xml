@@ -85,6 +85,9 @@
             <e p="CharacterMovement.cs" t="Include" />
             <e p="Collectable.cs" t="Include" />
             <e p="CollectableList.cs" t="Include" />
+            <e p="Coroutines" t="Include">
+              <e p="CoroutinesExample.cs" t="Include" />
+            </e>
             <e p="EnumsSwitches.cs" t="Include" />
             <e p="FloatDataInClass.cs" t="Include" />
             <e p="IfStatements.cs" t="Include" />

@@ -7,16 +7,26 @@ using UnityEngine.UI;
 public class TextBehavior : MonoBehaviour
 {
     private Text textObj;
-    public IntDataInClass intData;
+    //public IntDataInClass intData;
 
     void Start()
     {
         textObj = GetComponent<Text>();
     }
 
-    public void Update()
+   // public void Update()
+   // {
+   //     textObj.text = "Score: " + intData.value.ToString();
+   // }
+
+    public void ChangeText(string message)
     {
-        textObj.text = "Score: " + intData.value.ToString();
+        textObj.text = message;
+    }
+
+    public void ChangeText(IntData obj)
+    {
+        textObj.text = obj.value.ToString();
     }
 
 }
