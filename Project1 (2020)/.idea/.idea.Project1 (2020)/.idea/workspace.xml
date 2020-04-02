@@ -27,6 +27,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/RoomNav.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://D:/GitHub Repos/1620Fall2019/CreateProjectPractice/Assets/Scripts/CoRoutines/Coroutines.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/EnumsSwitches.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/Coroutines/AlternateCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/CollectableList.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/InteractableItems.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/ListsAndLoops.cs" root0="FORCE_HIGHLIGHTING" />
@@ -82,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/MenuController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DestroyProjectile.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InstantiateTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ArraysTutorial.cs" />
@@ -121,7 +121,6 @@
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/UsableItems.cs" />
         <option value="$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Use.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/EnumsSwitches.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/AI/NavAgentBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Standard Assets/2D/Scripts/Platformer2DUserControl.cs" />
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/Paralaxing.cs" />
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/Parallaxing.cs" />
@@ -129,10 +128,12 @@
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs" />
         <option value="$PROJECT_DIR$/Assets/ArmRotation.cs" />
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/ArmRotation.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/Coroutines/CoroutinesExample.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/IntData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TextBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/WeaponBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/Coroutines/CoroutinesExample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TextBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/Coroutines/AlternateCoroutine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/AI/NavAgentBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -236,7 +237,8 @@
       <workItem from="1584765683180" duration="5946000" />
       <workItem from="1584980349074" duration="3411000" />
       <workItem from="1585189136721" duration="2137000" />
-      <workItem from="1585271450367" duration="20910000" />
+      <workItem from="1585271450367" duration="22095000" />
+      <workItem from="1585758206478" duration="3016000" />
     </task>
     <servers />
   </component>

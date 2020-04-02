@@ -87,6 +87,7 @@
             <e p="Collectable.cs" t="Include" />
             <e p="CollectableList.cs" t="Include" />
             <e p="Coroutines" t="Include">
+              <e p="AlternateCoroutine.cs" t="Include" />
               <e p="CoroutinesExample.cs" t="Include" />
             </e>
             <e p="EnumsSwitches.cs" t="Include" />

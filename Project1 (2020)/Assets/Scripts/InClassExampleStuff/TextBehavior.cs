@@ -19,7 +19,7 @@ public class TextBehavior : MonoBehaviour
    //     textObj.text = "Score: " + intData.value.ToString();
    // }
 
-    public void ChangeText(string message)
+    public void ChangeTextMessage(string message)
     {
         textObj.text = message;
     }

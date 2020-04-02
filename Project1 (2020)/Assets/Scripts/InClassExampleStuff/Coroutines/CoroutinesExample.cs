@@ -16,7 +16,7 @@ public class CoroutinesExample : MonoBehaviour
 
     private WaitForSeconds wfsObj;
 
-    public string message;
+    
 
     private void Awake()
     {
