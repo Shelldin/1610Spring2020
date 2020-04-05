@@ -864,6 +864,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1162652550, guid: 21a0fc85ba23424459a4c4dfac43885a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.008
+      objectReference: {fileID: 0}
+    - target: {fileID: 1162652550, guid: 21a0fc85ba23424459a4c4dfac43885a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.172
+      objectReference: {fileID: 0}
     - target: {fileID: 1964136585, guid: 21a0fc85ba23424459a4c4dfac43885a, type: 3}
       propertyPath: m_Controller
       value: 
@@ -883,14 +891,6 @@ PrefabInstance:
     - target: {fileID: 1768618057, guid: 21a0fc85ba23424459a4c4dfac43885a, type: 3}
       propertyPath: m_Name
       value: Graphics
-      objectReference: {fileID: 0}
-    - target: {fileID: 1162652550, guid: 21a0fc85ba23424459a4c4dfac43885a, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.008
-      objectReference: {fileID: 0}
-    - target: {fileID: 1162652550, guid: 21a0fc85ba23424459a4c4dfac43885a, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.172
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1964136586, guid: 21a0fc85ba23424459a4c4dfac43885a, type: 3}
@@ -1120,6 +1120,9 @@ MonoBehaviour:
   whatToHit:
     serializedVersion: 2
     m_Bits: 563
+  bulletTrail: {fileID: 7735978236116363561, guid: 705e36737ba136a4c8d0feba97e9ac46,
+    type: 3}
+  effectSpawnRate: 10
 --- !u!1 &1763596337
 GameObject:
   m_ObjectHideFlags: 0

@@ -133,8 +133,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TextBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/Coroutines/AlternateCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/AI/NavAgentBehaviour.cs" />
-        <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/WeaponBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/TrailMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/WeaponBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -240,7 +240,7 @@
       <workItem from="1585189136721" duration="2137000" />
       <workItem from="1585271450367" duration="22095000" />
       <workItem from="1585758206478" duration="3016000" />
-      <workItem from="1586066352483" duration="672000" />
+      <workItem from="1586066352483" duration="1187000" />
     </task>
     <servers />
   </component>

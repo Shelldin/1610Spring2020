@@ -13,6 +13,8 @@ public class WeaponBehaviour : MonoBehaviour
     public LayerMask whatToHit;
 
     public Transform bulletTrail;
+    private float timeToSpawnEffect = 0f;
+    public float effectSpawnRate = 10f;
 
     private float timeToFire = 0f;
     private Transform firePoint;
@@ -52,7 +54,11 @@ public class WeaponBehaviour : MonoBehaviour
             Camera.main.ScreenToWorldPoint(Input.mousePosition).y);
         Vector2 firePointPosition = new Vector2(firePoint.position.x, firePoint.position.y);
         RaycastHit2D hit = Physics2D.Raycast(firePointPosition, mousePosition - firePointPosition, 100, whatToHit);
-        Effect();
+        if (Time.time >= timeToSpawnEffect)
+        {
+            Effect();
+            timeToSpawnEffect = Time.time + 1 /effectSpawnRate;
+        }
         Debug.DrawLine(firePointPosition, (mousePosition-firePointPosition)*100, Color.red);
         if (hit.collider != null)
         {
