@@ -9,5 +9,6 @@ public class TrailMovement : MonoBehaviour
     void Update()
     {
       transform.Translate(Vector3.right*Time.deltaTime*speed);
+      Destroy(this.gameObject, 1f);
     }
 }
