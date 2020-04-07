@@ -84,7 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InstantiateTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ArraysTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InvokeTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InvokeRepeatTutorial.cs" />
@@ -135,6 +134,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/AI/NavAgentBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/TrailMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/WeaponBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/CharacterMovement.cs" />
       </list>
     </option>
   </component>
@@ -241,6 +241,7 @@
       <workItem from="1585271450367" duration="22095000" />
       <workItem from="1585758206478" duration="3016000" />
       <workItem from="1586066352483" duration="2342000" />
+      <workItem from="1586188283184" duration="711000" />
     </task>
     <servers />
   </component>
