@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Experimental.AI;
+using Random = System.Random;
 
 //from brackeys tutorial
 public class WeaponBehaviour : MonoBehaviour
@@ -12,7 +13,8 @@ public class WeaponBehaviour : MonoBehaviour
     public float dmg = 10f;
     public LayerMask whatToHit;
 
-    public Transform bulletTrail;
+    public Transform bulletTrail,
+        muzzleFlash;
     private float timeToSpawnEffect = 0f;
     public float effectSpawnRate = 10f;
 
@@ -70,6 +72,11 @@ public class WeaponBehaviour : MonoBehaviour
     private void Effect()
     {
         Instantiate(bulletTrail, firePoint.position, firePoint.rotation);
+        Transform muzzleFlashClone = Instantiate(muzzleFlash, firePoint.position, firePoint.rotation) as Transform;
+        muzzleFlashClone.parent = firePoint;
+        float size = UnityEngine.Random.Range(0.6f, 0.9f);
+        muzzleFlashClone.localScale = new Vector3(size, size, size);
+        Destroy(muzzleFlashClone.gameObject, 0.02f);
     }
 }
 

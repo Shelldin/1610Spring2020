@@ -1122,6 +1122,8 @@ MonoBehaviour:
     m_Bits: 563
   bulletTrail: {fileID: 7735978236116363561, guid: 705e36737ba136a4c8d0feba97e9ac46,
     type: 3}
+  muzzleFlash: {fileID: 2298355652101647478, guid: 6d6a86b8287e2344ca28459de006e126,
+    type: 3}
   effectSpawnRate: 10
 --- !u!1 &1763596337
 GameObject:

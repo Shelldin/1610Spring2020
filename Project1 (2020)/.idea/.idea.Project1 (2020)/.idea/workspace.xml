@@ -20,6 +20,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/DeltaTimeTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/WeaponBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Inventory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2D Platformer Tutorial/Standard Assets/2D/Scripts/Camera2DFollow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/2D Platformer Tutorial/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/ArmRotation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/MonoBehaviors.cs" root0="FORCE_HIGHLIGHTING" />
@@ -84,7 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ArraysTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InvokeTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InvokeRepeatTutorial.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" />
@@ -133,8 +133,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/Coroutines/AlternateCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/AI/NavAgentBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/TrailMovement.cs" />
-        <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/WeaponBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/CharacterMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/WeaponBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Standard Assets/2D/Scripts/Camera2DFollow.cs" />
       </list>
     </option>
   </component>
@@ -242,6 +243,7 @@
       <workItem from="1585758206478" duration="3016000" />
       <workItem from="1586066352483" duration="2342000" />
       <workItem from="1586188283184" duration="1315000" />
+      <workItem from="1586354650699" duration="1638000" />
     </task>
     <servers />
   </component>
