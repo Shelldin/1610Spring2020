@@ -13,6 +13,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://D:/GitHub Repos/1620Fall2019/CreateProjectPractice/Assets/Scripts/Movement.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/Flip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/ActionResponse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/TilingBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ConvoScript.cs" root0="FORCE_HIGHLIGHTING" />
@@ -66,6 +67,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InvokeRepeatTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InstantiateTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/GameMasterBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/MovementData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/Parallaxing.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerExitEvent.cs" root0="FORCE_HIGHLIGHTING" />
@@ -73,6 +75,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/StartEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/ImageBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityEvents/TriggerEnterEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/PlayerBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InvokeTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextAdventureTutorial/Text_Adventure/Assets/Scripts/Take.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
@@ -85,9 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InvokeTutorial.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/InvokeRepeatTutorial.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ImageBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/FloatDataInClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/Compass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UnityTutorialScripts/ConvoScript.cs" />
@@ -131,11 +131,14 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/Coroutines/CoroutinesExample.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/TextBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/Coroutines/AlternateCoroutine.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/AI/NavAgentBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/TrailMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/CharacterMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/WeaponBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/GameMasterBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Scripts/PlayerBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/2D Platformer Tutorial/Standard Assets/2D/Scripts/Camera2DFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/Flip.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InClassExampleStuff/AI/NavAgentBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -243,7 +246,7 @@
       <workItem from="1585758206478" duration="3016000" />
       <workItem from="1586066352483" duration="2342000" />
       <workItem from="1586188283184" duration="1315000" />
-      <workItem from="1586354650699" duration="1638000" />
+      <workItem from="1586354650699" duration="7031000" />
     </task>
     <servers />
   </component>

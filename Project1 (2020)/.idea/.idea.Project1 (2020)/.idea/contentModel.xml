@@ -10,7 +10,9 @@
         <e p="2D Platformer Tutorial" t="Include">
           <e p="Scripts" t="Include">
             <e p="ArmRotation.cs" t="Include" />
+            <e p="GameMasterBehavior.cs" t="Include" />
             <e p="Parallaxing.cs" t="Include" />
+            <e p="PlayerBehavior.cs" t="Include" />
             <e p="TilingBehaviour.cs" t="Include" />
             <e p="TrailMovement.cs" t="Include" />
             <e p="WeaponBehaviour.cs" t="Include" />
@@ -92,6 +94,7 @@
               <e p="CoroutinesExample.cs" t="Include" />
             </e>
             <e p="EnumsSwitches.cs" t="Include" />
+            <e p="Flip.cs" t="Include" />
             <e p="FloatDataInClass.cs" t="Include" />
             <e p="IfStatements.cs" t="Include" />
             <e p="ImageBehaviour.cs" t="Include" />

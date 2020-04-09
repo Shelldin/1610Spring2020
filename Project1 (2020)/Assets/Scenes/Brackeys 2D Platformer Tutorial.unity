@@ -282,6 +282,7 @@ MonoBehaviour:
   lookAheadFactor: 1.5
   lookAheadReturnSpeed: 0.7
   lookAheadMoveThreshold: 0.1
+  yClamp: -1
 --- !u!4 &317294294 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 317294294, guid: 21a0fc85ba23424459a4c4dfac43885a,
@@ -905,6 +906,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1463674936}
   - component: {fileID: 1463674935}
+  - component: {fileID: 1463674937}
   m_Layer: 0
   m_Name: _GM
   m_TagString: Untagged
@@ -943,6 +945,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1463674937
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1463674934}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bda54bb25994434cad3a2878241445b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1544473505
 GameObject:
   m_ObjectHideFlags: 0
@@ -1381,6 +1395,21 @@ SpriteRenderer:
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1964136587
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1964136579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4847237f32f5c784a9dd22666b1c4cbd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerStats:
+    hitPoints: 100
+  deathFallBoundary: -20
 --- !u!1 &1991349768
 GameObject:
   m_ObjectHideFlags: 0
